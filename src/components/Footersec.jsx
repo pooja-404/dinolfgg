@@ -1,9 +1,8 @@
 import React from "react";
 import FooterImg from "../assets/images/FooterImg.webp";
 import CartoonImg1 from "../assets/images/CartoonImg1.webp";
-import twitr from '../assets/images/ftwitter.webp'
-import insta from '../assets/images/finsta.webp'
-import discord from '../assets/images/fdiscord.webp'
+import {  FooterDiscord, FooterInstagram, FooterTwitter, } from "./Icon";
+
 
 
 const Footer = () => {
@@ -37,14 +36,11 @@ const Footer = () => {
                             Curabitur feugiat porta lorem,{" "}
                         </p>
                         <div className="flex gap-2">
-                            <a href="https://www.twitter.com" target="_blank">
-                                <img src={twitr} alt="twitr" className=" hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]" />
+                            <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterTwitter />
                             </a>
-                            <a href="https://www.discord.com" target="_blank">
-                                <img src={discord} alt="discord" className=" hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]" />
+                            <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterDiscord />
                             </a>
-                            <a href="https://www.instagram.com" target="_blank">
-                                <img src={insta} alt="insta" className=" hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]" />
+                            <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterInstagram/>
                             </a>
                         </div>
                     </div>

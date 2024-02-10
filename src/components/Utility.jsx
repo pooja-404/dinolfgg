@@ -36,7 +36,7 @@ const Utility = () => {
                         data-aos="zoom-in"
                     >
                         <div className="pt-[28px] lg:pt-0">
-                            <p className="text-white lg:max-w-[681px] lg:text-start text-center font-normal font-bal leading-[119%] sm:mb-[28px] mb-[18px] sm:text-[32px] text-[22px]">
+                            <p className="text-white lg:max-w-[681px] lg:text-start text-center font-normal font-bal leading-[119%] sm:mb-[28px] mb-[18px] lg:text-[32px] text-[24px]">
                                 We are going to work hard in otder to add{" "}
                                 <span className="text-[#8EC627] font-bold">$</span>
                                 <span className="text-[#FBA11D] font-bold">D</span>
@@ -45,7 +45,7 @@ const Utility = () => {
                                 <span className="text-[#FB5352] font-bold">O</span> to main
                                 platforms as a form of payment
                             </p>
-                            <p className="text-white sm:text-[32px] text-[22px] lg:text-start text-center font-normal font-bal leading-[119%] lg:max-w-[695px]">
+                            <p className="text-white lg:text-[32px] text-[24px] lg:text-start text-center font-normal font-bal leading-[119%] lg:max-w-[695px]">
                                 You will be able to buy a lot of things with{" "}
                                 <span className="text-[#8EC627] font-bold">$</span>
                                 <span className="text-[#FBA11D] font-bold">D</span>

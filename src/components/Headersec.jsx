@@ -1,11 +1,11 @@
 import React from "react";
 import { useState } from "react";
-import twitr from '../assets/images/twiter.webp'
-import insta from '../assets/images/insta.webp'
-import discord from '../assets/images/discord.webp'
 import HelicopterImg from "../assets/images/pilotImg.webp";
 import CartoonImg1 from "../assets/images/CartoonImg1.webp";
 import CartoonImg2 from "../assets/images/CartoonImg2.webp";
+import { Discord, Instagram, Twitter } from "./Icon";
+
+
 
 const Headersec = () => {
   const [nav, setNav] = useState(true);
@@ -77,14 +77,11 @@ const Headersec = () => {
                   </a>
                 </li>
                 <li className="gap-2 items-center sm:hidden flex">
-                  <a href="https://www.twitter.com" target="_blank">
-                    <img src={twitr} alt="twitr" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
+                  <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Twitter />
                   </a>
-                  <a href="https://www.discord.com" target="_blank">
-                    <img src={discord} alt="discord" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
+                  <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Discord />
                   </a>
-                  <a href="https://www.instagram.com" target="_blank">
-                    <img src={insta} alt="insta" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
+                  <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Instagram />
                   </a>
                 </li>
                 <li className="lg:hidden">
@@ -94,26 +91,15 @@ const Headersec = () => {
                   >
                     Join Now
                   </a>
-
                 </li>
-
               </ul>
               <ul className="gap-2 items-center sm:flex hidden">
-                <li>
-                  <a href="https://www.twitter.com" target="_blank">
-                    <img src={twitr} alt="twitr" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.discord.com" target="_blank">
-                    <img src={discord} alt="discord" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com" target="_blank">
-                    <img src={insta} alt="insta" className=' hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px] ' />
-                  </a>
-                </li>
+                <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Twitter />
+                </a>
+                <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Discord />
+                </a>
+                <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#000] transition-all ease-linear duration-500 rounded-[50px]"><Instagram />
+                </a>
                 <li className="lg:block">
                   <a
                     href=""

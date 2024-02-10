@@ -27,13 +27,13 @@ const Roadmap = () => {
                             01{" "}
                         </h3>
                         <ol className="flex flex-col gap-4 list-disc pl-[30px]">
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Launch $DINO & Website & Social Media.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Building the community.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Marketing Phase 1.
                             </li>
                         </ol>
@@ -51,13 +51,13 @@ const Roadmap = () => {
                             02
                         </h3>
                         <ol className="flex flex-col gap-4 list-disc pl-[30px]">
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 CoinGecko & Coinmarketcap listing.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Introduction to Buyback & Burning mechanism
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Marketing Phase 2.
                             </li>
                         </ol>
@@ -75,13 +75,13 @@ const Roadmap = () => {
                             03
                         </h3>
                         <ol className="flex flex-col gap-4 list-disc pl-[30px]">
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Utility and Usecase Introduction.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 CEX Listings
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Marketing Phase 3.
                             </li>
                         </ol>
@@ -99,13 +99,13 @@ const Roadmap = () => {
                             04
                         </h3>
                         <ol className="flex flex-col gap-4 list-disc pl-[30px]">
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Staking Introduction.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 DINO NFT Collection.
                             </li>
-                            <li className="lg:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
+                            <li className="sm:text-[20px] text-[15px] font-normal font-bal text-white leading-[121%]">
                                 Marketing Phase 4
                             </li>
                         </ol>
