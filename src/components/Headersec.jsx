@@ -9,7 +9,11 @@ import CartoonImg2 from "../assets/images/CartoonImg2.webp";
 
 const Headersec = () => {
   const [nav, setNav] = useState(true);
-  document.body.classList.toggle("max-lg:!overflow-hidden");
+  if (nav === false) {
+    document.body.classList.add("max-lg:!overflow-hidden");
+  } else {
+    document.body.classList.remove("max-lg:!overflow-hidden");
+  }
 
   return (
     <>
@@ -25,7 +29,7 @@ const Headersec = () => {
           className=" absolute left-[50%] bottom-[18%] ImgAnimate sm:max-w-[131px] max-w-[40px] w-full"
         />
         <div className="container xl:max-w-[1156px] mx-auto xl:px-3 px-6 pt-[28px]">
-          <div className=" flex justify-between items-center md:pt-[4px] py-[10px] md:pb-[5.43px] pl-6 pr-[7.42px] bg-white border-b-[4px] border-solid border-[black] rounded-[61.102px] ">
+          <div className=" flex justify-between items-center md:pt-[8px] py-[10px] md:pb-[5.43px] pl-6 pr-[7.42px] bg-white border-b-[4px] border-solid border-[black] rounded-[61.102px] ">
             <h1 className="ff-lucky font-normal cursor-pointer leading-[94%] drop-shadow-[0px_1.337px_0px_#000] sm:text-[39.125px] text-[24px]">
               <span className="text-[#FBA11D]">D</span>
               <span className="text-[#23AAAC]">i</span>

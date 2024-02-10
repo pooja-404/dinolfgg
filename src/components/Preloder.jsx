@@ -22,11 +22,11 @@ const Preloder = () => {
                     style={{ zIndex: "999999999" }}
                     className="bg-[#0a4740] top-0 start-0 fixed h-full w-full flex flex-col justify-center items-center">
                     <div className="bg-[#0a4740] ">
-                        <div className="animate-bounce-slow  flex  justify-center items-center">
-                            <img src={preloder2} alt="AboutLayor" className="w-[50%] h-[50%]"/>
+                        <div className="animate-bounce !duration-700 flex justify-center items-center">
+                            <img src={preloder2} alt="AboutLayor" className="max-lg:w-[50%] w-[70%] object-cover"/>
                             
                         </div>
-                        <h1 className="ff-lucky font-normal flex justify-center items-center cursor-pointer leading-[94%] drop-shadow-[0px_1.337px_0px_#000] sm:text-[39.125px] text-[24px]">
+                        <h1 className="ff-lucky font-normal pt-2 flex justify-center items-center cursor-pointer leading-[94%] drop-shadow-[0px_1.337px_0px_#000] sm:text-[45px] text-[24px]">
                             <span className="text-[#FBA11D]">D</span>
                             <span className="text-[#23AAAC]">i</span>
                             <span className="text-[#D45B07]">n</span>

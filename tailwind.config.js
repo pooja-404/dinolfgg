@@ -13,7 +13,7 @@ module.exports = {
         "BgSize": "100% 100%"
       },
       animation: {
-        'bounce-slow': 'bounce 3s linear'
+        'bounce-slow': 'bounce 2s linear'
       }
     },
   },
