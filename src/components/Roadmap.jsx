@@ -20,7 +20,7 @@ const Roadmap = () => {
             <div className="container mx-auto xl:max-w-[1118px] xl:px-3 px-6 relative">
                 <div className="md:pl-0 sm:pl-[130px] pl-[70px]">
                     <div
-                        className="flex sm:flex-row flex-col sm:items-center xl:gap-[45px] lg:gap-[25px] gap-[14px] relative z-10"
+                        className="flex sm:flex-row flex-col sm:items-center xl:gap-[45px] lg:gap-[25px] gap-[30px] relative z-10"
                         data-aos="zoom-in-right"
                     >
                         <h3 className="lg:text-[200px] sm:text-[120px] text-[70px] font-normal md:w-[auto] w-[135px] md:leading-[130%] leading-[76%] font-chewy text-[#FBA11D] drop-shadow-[0px_18.413px_18.413px_rgba(0,_0,_0,_0.26)]">
