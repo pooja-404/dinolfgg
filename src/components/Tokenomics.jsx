@@ -68,7 +68,7 @@ const Tokenomics = () => {
                             <img
                                 src={TokenomicsCartoon}
                                 alt="TokenomicsCartoon"
-                                className="xl:flex hidden absolute w-full vert_move3 lg:top-[-28%] top-[-37%] left-[39%] max-w-[133.72px]"
+                                className="xl:flex hidden absolute w-full vert_move3 lg:top-[-14%] top-[-37%] left-[39%] max-w-[133.72px]"
                                 data-aos="zoom-in"
                             />
                             <div
