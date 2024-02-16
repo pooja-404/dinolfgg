@@ -26,7 +26,7 @@ const Utility = () => {
                         className="absolute bottom-[11px] right-[-22%] z-[-1] w-full max-w-[350px]"
                     />
                     <h2
-                        className=" sm:text-[64px] text-[35px] font-normal leading-[131%] text-white text-center font-chewy"
+                        className=" sm:text-[64px] text-[40px] font-normal leading-[131%] text-white text-center font-chewy"
                         data-aos="zoom-in"
                     >
                         Utility and Usecase

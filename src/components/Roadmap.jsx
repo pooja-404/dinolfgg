@@ -12,7 +12,7 @@ const Roadmap = () => {
             className="bg-[#09655A] sm:pb-[200px] pb-[68px] my-[-2px]"
         >
             <h2
-                className="sm:text-[64px] text-[50px] font-normal text-white text-center font-chewy leading-[83.63px] md:mb-[97px]leading-[132%] relative z-10 mb-[40px]"
+                className="sm:text-[64px] text-[40px] font-normal text-white text-center font-chewy leading-[83.63px] md:mb-[97px]leading-[132%] relative z-10 mb-[40px]"
                 data-aos="zoom-in"
             >
                 Roadmap
@@ -92,7 +92,7 @@ const Roadmap = () => {
                         />
                     </div>
                     <div
-                        className="flex sm:flex-row flex-col sm:items-center md:justify-center lg:gap-[30px] gap-[15px] md:pt-[154px] pt-[30px] relative z-10"
+                        className="flex sm:flex-row flex-col sm:items-center md:justify-center lg:gap-[30px] gap-[15px] md:pt-[184px] pt-[30px] relative z-10"
                         data-aos="zoom-in-left"
                     >
                         <h3 className="lg:text-[200px] sm:text-[120px] text-[70px]  font-chewy font-normal md:ml-[150px] text-[#23AAAC] drop-shadow-[0px_18.413px_18.413px_rgba(0,_0,_0,_0.26)] leading-[145%]">

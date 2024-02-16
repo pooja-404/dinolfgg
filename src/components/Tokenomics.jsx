@@ -40,7 +40,7 @@ const Tokenomics = () => {
                 />
                 <div className="container relative z-[1] xl:max-w-[1147px] xl:px-3 px-6 mx-auto sm:pt-[236px] pt-[80px] xl:pb-[540px] lg:pb-[400px] sm:pb-[350px] pb-[175px]">
                     <h2
-                        className="text-white font-normal  sm:text-[64px] text-[50px] leading-[131%] font-chewy text-center xl:mb-[150px] lg:mb-[60px] mb-[45px]"
+                        className="text-white font-normal  sm:text-[64px] text-[40px] leading-[131%] font-chewy text-center xl:mb-[150px] lg:mb-[60px] mb-[45px]"
                         data-aos="zoom-in"
                     >
                         Tokenomics
@@ -137,8 +137,8 @@ const Tokenomics = () => {
                                 className="lg:hidden flex justify-center items-center mt-12"
                                 data-aos="zoom-in"
                             >
-                                <div className=" flex flex-col md:gap-[35px] ">
-                                    <div className="flex gap-[32px] max-md:pt-5">
+                                <div className=" flex  flex-col md:gap-[35px] ">
+                                    <div className="flex  gap-[32px] max-md:pt-5">
                                         <div className="w-[34px] h-[34px] border border-solid border-white rounded-md bg-[#FBA11D]"></div>
                                         <div className="flex flex-col gap-[5px]">
                                             <p className="text-[#FBA11D] leading-[119%] sm:text-[32px] text-[24px] font-normal font-bal">
@@ -149,7 +149,7 @@ const Tokenomics = () => {
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="flex gap-[32px] max-md:pt-5">
+                                    <div className="flex  gap-[32px] max-md:pt-5">
                                         <div className="w-[34px] h-[34px] border border-solid border-white rounded-md bg-[#23AAAC]"></div>
                                         <div className="flex flex-col gap-[5px]">
                                             <p className="text-[#23AAAC] leading-[119%] sm:text-[32px] text-[24px] font-normal font-bal">
@@ -163,7 +163,7 @@ const Tokenomics = () => {
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="flex gap-[32px] max-md:pt-5">
+                                    <div className="flex  gap-[32px] max-md:pt-5">
                                         <div className="w-[34px] h-[34px] border border-solid border-white rounded-md bg-[#D45B07]"></div>
                                         <div className="flex flex-col gap-[5px]">
                                             <p className="text-[#D45B07] leading-[119%] sm:text-[32px] text-[24px] font-normal font-bal">
@@ -171,7 +171,7 @@ const Tokenomics = () => {
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="flex gap-[32px] max-md:pt-5">
+                                    <div className="flex  gap-[32px] max-md:pt-5">
                                         <div className="w-[34px] h-[34px] border border-solid border-white rounded-md bg-[#FB5352]"></div>
                                         <div className="flex flex-col gap-[5px]">
                                             <p className="text-[#FB5352] leading-[119%] sm:text-[32px] text-[24px] font-normal font-bal">
@@ -179,7 +179,7 @@ const Tokenomics = () => {
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="flex gap-[32px] max-md:pt-5">
+                                    <div className="flex  gap-[32px] max-md:pt-5">
                                         <div className="w-[34px] h-[34px] border border-solid border-white rounded-md bg-[#8EC627]"></div>
                                         <div className="flex flex-col gap-[5px]">
                                             <p className="text-[#8EC627] leading-[119%] sm:text-[32px] text-[24px] font-normal font-bal">

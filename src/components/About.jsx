@@ -31,7 +31,7 @@ const About = () => {
                             className="font-normal sm:text-[69.669px] text-[45px] ff_luckydino drop-shadow-[0px_2.38px_0px_#FFF] leading-[100%] sm:mb-[42px] mb-[24px] text-center"
                             data-aos="zoom-in"
                         >
-                            <span className="text-white font-chewy sm:text-[64px] text-[50px] font-normal leading-[131%]">
+                            <span className="text-white font-chewy sm:text-[64px] text-[40px] font-normal leading-[131%]">
                                 {" "}
                                 About
                             </span>
