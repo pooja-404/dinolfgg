@@ -133,7 +133,7 @@ const Headersec = () => {
               <img
                 src={HelicopterImg}
                 alt="HelicopterImg"
-                className="w-full sm:max-w-[394.14px] helo-header max-w-[250px]"
+                className="w-full sm:max-w-[394.14px]  max-w-[250px]"
                 data-aos="fade-right"
               />
             </div>

@@ -69,7 +69,7 @@ const About = () => {
                             just sit back and relax.
                         </p>
                         <p
-                            className="text-white sm:text-[24px] text-[18px] font-normal  font-bal lg:max-w-[599px] text-center leading-[121%] mb-[17px]"
+                            className="text-white sm:text-[24px] text-[16px] font-normal  font-bal lg:max-w-[599px] text-center leading-[121%] mb-[17px]"
                             data-aos="zoom-in"
                         >
                             In $DINO, we want to build a very strong community, that’s why we
