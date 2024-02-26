@@ -38,9 +38,9 @@ const Footer = () => {
                         <div className="flex gap-2">
                             <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterTwitter />
                             </a>
-                            <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterDiscord />
+                            <a href="https://discord.com/" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterDiscord />
                             </a>
-                            <a href="https://www.twitter.com" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterInstagram/>
+                            <a href="https://www.instagram.com/" target="_blank" className="hover:translate-y-[-5px] hover:shadow-[0px_5px_8px_#fff] transition-all ease-linear duration-500 rounded-[50px]"><FooterInstagram/>
                             </a>
                         </div>
                     </div>
